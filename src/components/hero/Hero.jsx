@@ -1,6 +1,6 @@
 import React from "react";
 import { IoIosArrowRoundForward } from "react-icons/io";
-import image from "../../assets/images/hero-img/iamge.png";
+import image from "../../assets/images/hero-img/image.png";
 import Bg from "../../assets/images/hero-img/bg.png";
 import Logoipsum from "../../assets/images/hero-img/Logo.png";
 import Logoipsum2 from "../../assets/images/hero-img/Logo2.png";
